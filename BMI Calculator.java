@@ -15,4 +15,3 @@ public class Main{
         System.out.println("Hey"+ name + "your height is" + height + "and your weight is" + weight + "so your BMI is " + BMI);
     }
 }
-
